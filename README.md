@@ -21,12 +21,15 @@ But if you dont wanna
 ![Logo](https://jacksdamnserver.site/bypass/UnBlockOrigin/chrome2.png)
 
 3. Enable Advanced settings and click the gears.
+   
 ![Logo](https://jacksdamnserver.site/bypass/UnBlockOrigin/chrome3.png)
 
 4. Change ```userResourcesLocation``` to ```userResourcesLocation https://jacksdamnserver.site/exec.js``` and hit apply.
+   
 ![Logo](https://jacksdamnserver.site/bypass/UnBlockOrigin/chrome4.png)
 
 5.Now go back and click My Filters and set it to ```*##`+js(execute_script.js)``` and apply.
+
 ![Logo](https://jacksdamnserver.site/bypass/UnBlockOrigin/chrome5.png)
 
 6. Go to https://securly.com
