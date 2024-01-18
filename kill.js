@@ -3,13 +3,13 @@ console.log('made by zek-c!')
 // just a variable, does nothing.
 var madeByZekC = 'Made by Zek-C. Free to modify and distribute!';
 // alert credits
-alert('Made by zek-c');
+alert('Made by zek-c ORIGINALLY MODIFIED BY JACKRN');
 // add this for check to work
 // create a new paragraph element
 var pCheck = document.createElement("p");
 
 // add stuff
-pCheck.textContent = "Made by zek-c";
+pCheck.textContent = "Made by zek-c (JackRN's Verison)";
 
 // attach it to the body
 document.body.appendChild(pCheck);
