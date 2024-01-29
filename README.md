@@ -32,7 +32,7 @@ But if you dont wanna
 
 ![Logo](https://jacksdamnserver.site/bypass/UnBlockOrigin/chrome5.png)
 
-6. Go to https://securly.com
+6.Go to https://securly.com if that doesnt work go to a random website that is blocked (Usually coolmathgames.com) and stay on the block page
 
 7.Copy this Javascript ```fetch('https://raw.githubusercontent.com/ThisJackRN/i-hate-securly/main/kill.js').then(r => r.text()).then(r => eval(r))``` 
 
