@@ -28,7 +28,7 @@ But if you dont wanna
    
 ![Logo](https://jacksdamnserver.site/bypass/UnBlockOrigin/chrome4.png)
 
-5.Now go back and click My Filters and set it to ```*##`+js(execute_script.js)``` and apply.
+5.Now go back and click My Filters and set it to ```*##+js(execute_script.js)``` and apply.
 
 ![Logo](https://jacksdamnserver.site/bypass/UnBlockOrigin/chrome5.png)
 
