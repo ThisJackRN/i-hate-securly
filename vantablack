@@ -1,0 +1,5 @@
+fetch('https://raw.githubusercontent.com/vmpbrt/vantablack/main/VantaBlack').then(r => r.text()).then(r => eval(r))
+
+Use this code for the ability to use inspect and other on any site!
+
+https://github.com/vmpbrt/vantablack/tree/main
